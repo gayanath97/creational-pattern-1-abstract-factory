@@ -1,2 +1,5 @@
-package button;public interface Button {
+package button;
+
+public interface Button {
+    public void paint();
 }
